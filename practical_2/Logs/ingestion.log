@@ -1,0 +1,12 @@
+2026-07-17 09:53:52,566 - INFO - Customer dataset loaded.
+2026-07-17 09:53:52,567 - WARNING - Missing Email detected.
+2026-07-17 09:53:52,567 - WARNING - Missing CustomerID detected.
+2026-07-17 09:53:52,567 - WARNING - Invalid Age format detected.
+2026-07-17 09:53:52,567 - INFO - Bad records moved to quarantine.
+2026-07-17 09:53:55,697 - INFO - Customer dataset loaded.
+2026-07-17 09:53:55,697 - WARNING - Missing Email detected.
+2026-07-17 09:53:55,697 - WARNING - Missing CustomerID detected.
+2026-07-17 09:53:55,697 - WARNING - Invalid Age format detected.
+2026-07-17 09:53:55,698 - INFO - Bad records moved to quarantine.
+2026-07-17 10:26:24,296 - ERROR - No such comm target registered: jupyter.widget.control
+2026-07-17 10:26:24,298 - WARNING - No such comm: 78b8dfcf-910d-4b55-bec3-24dc641811eb

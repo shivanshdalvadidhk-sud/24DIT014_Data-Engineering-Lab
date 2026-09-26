@@ -1,0 +1,14 @@
+
+
+Server=localhost
+
+Port=5432
+
+Timeout=30
+
+Cache=True
+
+Random Text
+
+Unknown Line
+
